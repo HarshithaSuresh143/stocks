@@ -585,7 +585,7 @@ def main():
     # Title and description
     st.markdown("""
         <div class="center-text">
-            <h1>Predictive Modelling Approach for Real dataset</h1>
+            <h1>Predictive Modelling Approach for Real Datasets</h1>
              <h3>Trade With Sense | Grow With Confidence </h3>
             <p style="font-size: 18px;">
                 🔍 Analyze Any Stock</p>
@@ -806,6 +806,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
